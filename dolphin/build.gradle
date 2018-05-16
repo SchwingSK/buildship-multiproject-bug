@@ -1,0 +1,5 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = "org.foo.Foo"
+executableDir = "custom_bin_dir"
